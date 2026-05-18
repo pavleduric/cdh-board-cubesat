@@ -21,3 +21,11 @@ My primary focus on this project was the design, routing, and physical verificat
 * `/hardware`: High-level PCB 3D renders, layer stackup concepts, and top-level schematics (sanitized).
 * `/media`: Future photos of the physical prototype, bench testing setups, and oscilloscope waveforms from board bring-up.
 * `/docs`: High-level system architecture block diagrams explaining the inter-board data routing.
+
+## 📸 Hardware Showcase
+
+### 3D Board Rendering
+![APEx CDH 3D Render](./hardware/cdh-3d.jpg)
+
+### KiCad EDA Layout View
+![APEx CDH KiCad Layout](./hardware/cdh-layout.jpg)
